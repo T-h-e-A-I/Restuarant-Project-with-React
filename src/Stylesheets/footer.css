@@ -1,0 +1,10 @@
+#footer {
+    background-color: skyblue;
+    bottom: 0;
+    padding: 10px;
+}
+
+#footer p {
+
+    color: white;
+}

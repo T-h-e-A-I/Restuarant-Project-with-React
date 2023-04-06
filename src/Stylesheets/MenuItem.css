@@ -1,0 +1,22 @@
+.card-img {
+    display: block;
+    position: relative;
+    padding: 30px;
+    max-width: 600px;
+    height: 380px;
+    width: auto;
+    margin-bottom: 10px;
+}
+
+
+.card-menu:hover .card-img {
+    opacity: 50%;
+}
+
+.card-img-overlay {
+    visibility: hidden;
+}
+
+.card-menu:hover .card-img-overlay {
+    visibility: visible;
+}
